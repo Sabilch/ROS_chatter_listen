@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="test_program2" type="Sabil_Subscriber" name="Sabil_Subscriber" output="screen"> </node>
+</launch>
